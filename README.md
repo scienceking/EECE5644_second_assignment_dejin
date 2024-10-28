@@ -18,3 +18,9 @@ This is the code part of EECE 6544 the second assignment---dejin wang
 ## question 3 ###
 1.question 3      # the code of question 3
 
+
+## question 4 & 5  ###
+
+These two questions do not need code.
+
+
